@@ -13,7 +13,7 @@ Features:
 - Reporting and sane exit codes
 
 ![smoke sh](https://f.cloud.github.com/assets/657357/1238166/6f47f56a-29e4-11e3-9e19-394ca12b5fd0.png)
-
+ 
 Example
 -------
 
